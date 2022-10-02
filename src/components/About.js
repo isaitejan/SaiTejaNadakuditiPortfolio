@@ -24,24 +24,8 @@ export default class About extends Component {
                </p>
 
                <div className="row">
-
-                  <div className="columns contact-details">
-
-                  <h2>Contact Details</h2>
-                  <p className="address">
-       						<span>{resumeData.name}</span>
-                     <br></br>
-       						<span>{resumeData.address}</span>
-                     <br></br>
-                        <span>{resumeData.address2}</span>
-                     <br></br>
-                        <span>{resumeData.contactNo}</span>
-                     <br></br>
-                        <span>{resumeData.mailid}</span>
-                  </p>
-                  </div>
-                  <div>
-                     <button className='fa fa-download'><a href='SaiTejaNadakuditiResume.pdf' style={{fontFamily:'opensans-bold, sans-serif', color:'white'}} download>Download Resume</a></button>
+                  <div >
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button className='fa fa-download'><a href='SaiTejaNadakuditiResume.pdf' style={{fontFamily:'opensans-bold, sans-serif', color:'white'}} download>Download Resume</a></button>
                   </div>
                </div>
             </div>
