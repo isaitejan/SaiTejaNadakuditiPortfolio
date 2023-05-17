@@ -26,7 +26,7 @@ let resumeData = {
     "address":"6655 W141st St, Apt#3402",
     "address2":"Overland Park, Kansas - 66223",
     "contactNo":"+1 9133265307",
-    "mailid":"saitejanadakuditi22@gmail.com",
+    "mailid":"saitejanadakuditi1997@gmail.com",
     "education":[
       {
         "UniversityName":"University of Central Missouri",
