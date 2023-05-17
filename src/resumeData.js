@@ -33,7 +33,7 @@ let resumeData = {
         "specialization":"Software Development",
         "MonthOfPassing":"May",
         "YearOfPassing":"2023",
-        "Achievements":"GPA: 3.66/4.0"
+        "Achievements":"GPA: 3.7/4.0"
       },
       {
         "UniversityName":"Jawaharlal Nehru Technological University, Kakinada",
