@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Software Engineer",
     "linkedinId":"sai-teja-nadakuditi",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like to write code and like to learn about new technologies.",
+    "roleDescription": "I'm a Software Engineer by day, code ninja by night, and a caffeine-fueled problem solver at all times .",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -88,6 +88,12 @@ let resumeData = {
         "description":"Application which displays the movie data as cards from the database.",
         "imgurl":"SampleMflix.png",
         "github" : "https://github.com/isaitejan/Mflix_frontend"
+      },
+      {
+        "name":"Frontend-Code-Editor",
+        "description":"Allows frontend developers to write and manipulate code.",
+        "imgurl":"Frontend-Code-Editor.png",
+        "github" : "https://isaitejan.github.io/Frontend-Code-Editor/"
       }
     ]
   }
