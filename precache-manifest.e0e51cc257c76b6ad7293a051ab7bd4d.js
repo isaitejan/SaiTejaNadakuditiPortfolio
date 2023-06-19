@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ff97b1b03dda4503ddbf",
-    "url": "/SaiTejaNadakuditiPortfolio/static/css/main.c37ce02a.chunk.css"
+    "revision": "358f33dca165b8af3c88",
+    "url": "/SaiTejaNadakuditiPortfolio/static/css/main.269b23ab.chunk.css"
   },
   {
-    "revision": "ff97b1b03dda4503ddbf",
-    "url": "/SaiTejaNadakuditiPortfolio/static/js/main.ff97b1b0.chunk.js"
+    "revision": "358f33dca165b8af3c88",
+    "url": "/SaiTejaNadakuditiPortfolio/static/js/main.358f33dc.chunk.js"
   },
   {
     "revision": "bf3ed5239e269d7b95f8",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/SaiTejaNadakuditiPortfolio/static/js/runtime~main.8fa2f7cc.js"
   },
   {
-    "revision": "bbaf794c316fea38f5f36459addd8dfb",
+    "revision": "046be27637709ecb69cad3916d311654",
     "url": "/SaiTejaNadakuditiPortfolio/index.html"
   }
 ];
