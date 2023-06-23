@@ -94,6 +94,17 @@ let resumeData = {
         "description":"Allows frontend developers to write and manipulate code.",
         "imgurl":"Frontend-Code-Editor.png",
         "github" : "https://isaitejan.github.io/Frontend-Code-Editor/"
+      },
+      {
+        "name":"Items Cart - JWT Implementation",
+        "description":"Demonstrates the implementation of JWT.",
+        "imgurl":"ItemsCart.png",
+        "github" : "https://github.com/isaitejan/ItemsCart-JWT-Frontend"
+      },{
+        "name":"Medical Bill Tracker",
+        "description":"This App lets you upload and manage the medical bills. This is a static application without persistent storage.",
+        "imgurl":"MedicalApp.png",
+        "github" : "https://isaitejan.github.io/Medical-App/"
       }
     ]
   }
