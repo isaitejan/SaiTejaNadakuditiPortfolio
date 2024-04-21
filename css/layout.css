@@ -365,10 +365,25 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
+.springboot {
+   width: 78%;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
+}
+.oraclesql {
+   width: 70%;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
+}
 .expressjs {
-   width: 75%;
+   width: 76%;
    -moz-animation: expressjs 2s ease;
    -webkit-animation: expressjs 2s ease;
+}
+.fastapi {
+   width: 80%;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
 }
 .mongodb {
    width: 65%;
