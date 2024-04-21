@@ -1,7 +1,7 @@
 let resumeData = {
     // "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Sai Teja N",
-    "role": "Software Engineer",
+    "role": "Senior Full Stack Developer",
     "linkedinId":"sai-teja-nadakuditi",
     "skypeid": "Your skypeid",
     "roleDescription": "I'm a Software Engineer by day, code ninja by night, and a caffeine-fueled problem solver at all times .",
@@ -22,9 +22,9 @@ let resumeData = {
           "className":"fa fa-instagram"
         }
       ],
-    "aboutme":"I'm currently pursuing my Masters in Computer Science at University of Central Missouri. I have an experience of 2 years in developing Single Page Applications using MERN Stack.",
-    "address":"6655 W141st St, Apt#3402",
-    "address2":"Overland Park, Kansas - 66223",
+    "aboutme":"I'm currently employed as a Sr Full Stack Developer at Colorado Community College System. I handle end-to-end development tasks, including frontend and backend, database management, API integration, and ensuring seamless user experiences.",
+    "address":"3725 Buchtel Blvd",
+    "address2":"Denver, Colorado - 80210",
     "contactNo":"+1 9133265307",
     "mailid":"saitejanadakuditi1997@gmail.com",
     "education":[
@@ -45,6 +45,13 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"Colorado Community College System",
+        "specialization":"Senior Full Stack Developer",
+        "MonthOfLeaving":"Present",
+        // "YearOfLeaving":"2021",
+        "Achievements":"With 3+ years of experience, managed migration from Grails to React and FastAPI, developed reusable React components, contributed to FastAPI and Spring Boot REST service development, optimized backend processes, and resolved bugs in Grails projects, demonstrating expertise in API definition, logging techniques, and Git version control."
+      },
+      {
         "CompanyName":"Infosys Ltd",
         "specialization":"Systems Engineer",
         "MonthOfLeaving":"Dec",
@@ -55,25 +62,22 @@ let resumeData = {
     "skillsDescription":"Primary Skills",
     "skills":[
       {
-        "skillname":"HTML5"
-      },
-      {
-        "skillname":"CSS"
-      },
-      {
         "skillname":"JavaScript"
-      },
-      {
-        "skillname":"MongoDB"
-      },
-      {
-        "skillname":"Expressjs"
       },
       {
         "skillname":"Reactjs"
       },
       {
-        "skillname":"Java"
+        "skillname":"FastAPI"
+      },
+      {
+        "skillname":"Spring Boot"
+      },
+      {
+        "skillname":"Expressjs"
+      },
+      {
+        "skillname":"Oracle SQL"
       }
     ],
     "portfolio":[
