@@ -23,10 +23,10 @@ let resumeData = {
         }
       ],
     "aboutme":"I'm currently employed as a Sr Full Stack Developer at Colorado Community College System. I handle end-to-end development tasks, including frontend and backend, database management, API integration, and ensuring seamless user experiences.",
-    "address":"3725 Buchtel Blvd",
-    "address2":"Denver, Colorado - 80210",
-    "contactNo":"+1 9133265307",
-    "mailid":"saitejanadakuditi1997@gmail.com",
+    "address":"17678 Prarie Peak Trl",
+    "address2":"Parker, Colorado - 80134",
+    "contactNo":"+1 7206894353",
+    "mailid":"nsaiteja1109@gmail.com",
     "education":[
       {
         "UniversityName":"University of Central Missouri",
