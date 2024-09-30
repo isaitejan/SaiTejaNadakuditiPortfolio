@@ -1,13 +1,13 @@
 {
-  "main.css": "/SaiTejaNadakuditiPortfolio/static/css/main.df3a7361.chunk.css",
-  "main.js": "/SaiTejaNadakuditiPortfolio/static/js/main.66b41155.chunk.js",
-  "main.js.map": "/SaiTejaNadakuditiPortfolio/static/js/main.66b41155.chunk.js.map",
-  "runtime~main.js": "/SaiTejaNadakuditiPortfolio/static/js/runtime~main.4308d8c6.js",
-  "runtime~main.js.map": "/SaiTejaNadakuditiPortfolio/static/js/runtime~main.4308d8c6.js.map",
-  "static/js/2.8e817cf3.chunk.js": "/SaiTejaNadakuditiPortfolio/static/js/2.8e817cf3.chunk.js",
-  "static/js/2.8e817cf3.chunk.js.map": "/SaiTejaNadakuditiPortfolio/static/js/2.8e817cf3.chunk.js.map",
-  "index.html": "/SaiTejaNadakuditiPortfolio/index.html",
-  "precache-manifest.8b5af8cb803d4f4ac7c73c6b619daeef.js": "/SaiTejaNadakuditiPortfolio/precache-manifest.8b5af8cb803d4f4ac7c73c6b619daeef.js",
-  "service-worker.js": "/SaiTejaNadakuditiPortfolio/service-worker.js",
-  "static/css/main.df3a7361.chunk.css.map": "/SaiTejaNadakuditiPortfolio/static/css/main.df3a7361.chunk.css.map"
+  "files": {
+    "main.css": "/SaiTejaNadakuditiPortfolio/static/css/main.4152c3d3.css",
+    "main.js": "/SaiTejaNadakuditiPortfolio/static/js/main.f4bc3905.js",
+    "index.html": "/SaiTejaNadakuditiPortfolio/index.html",
+    "main.4152c3d3.css.map": "/SaiTejaNadakuditiPortfolio/static/css/main.4152c3d3.css.map",
+    "main.f4bc3905.js.map": "/SaiTejaNadakuditiPortfolio/static/js/main.f4bc3905.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4152c3d3.css",
+    "static/js/main.f4bc3905.js"
+  ]
 }
