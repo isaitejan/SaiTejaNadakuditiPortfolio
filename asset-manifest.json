@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SaiTejaNadakuditiPortfolio/static/css/main.4152c3d3.css",
-    "main.js": "/SaiTejaNadakuditiPortfolio/static/js/main.f4bc3905.js",
+    "main.js": "/SaiTejaNadakuditiPortfolio/static/js/main.52ccea71.js",
     "index.html": "/SaiTejaNadakuditiPortfolio/index.html",
     "main.4152c3d3.css.map": "/SaiTejaNadakuditiPortfolio/static/css/main.4152c3d3.css.map",
-    "main.f4bc3905.js.map": "/SaiTejaNadakuditiPortfolio/static/js/main.f4bc3905.js.map"
+    "main.52ccea71.js.map": "/SaiTejaNadakuditiPortfolio/static/js/main.52ccea71.js.map"
   },
   "entrypoints": [
     "static/css/main.4152c3d3.css",
-    "static/js/main.f4bc3905.js"
+    "static/js/main.52ccea71.js"
   ]
 }
