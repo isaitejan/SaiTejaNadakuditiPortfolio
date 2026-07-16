@@ -25,8 +25,8 @@ let resumeData = {
     "aboutme":"I'm currently employed as a Sr Full Stack Developer at Colorado Community College System. I handle end-to-end development tasks, including frontend and backend, database management, API integration, and ensuring seamless user experiences.",
     "address":"17678 Prarie Peak Trl",
     "address2":"Parker, Colorado - 80134",
-    "contactNo":"+1 7206894353",
-    "mailid":"nsaiteja1109@gmail.com",
+    "contactNo":"+1 9133265307",
+    "mailid":"saitejanadakuditi1997@gmail.com",
     "education":[
       {
         "UniversityName":"University of Central Missouri",
@@ -49,7 +49,7 @@ let resumeData = {
         "specialization":"Senior Full Stack Developer",
         "MonthOfLeaving":"Present",
         // "YearOfLeaving":"2021",
-        "Achievements":"With 3+ years of experience, managed migration from Grails to React and FastAPI, developed reusable React components, contributed to FastAPI and Spring Boot REST service development, optimized backend processes, and resolved bugs in Grails projects, demonstrating expertise in API definition, logging techniques, and Git version control."
+        "Achievements":"Full Stack Software Engineer with 5+ years of experience building scalable web applications, RESTful APIs, and microservices using Java, Spring Boot, Python, and React. Skilled at delivering across the full stack in cloud-native environments (AWS, OpenShift), with a strong foundation in Agile development, testing, and CI/CD practices. Passionate about writing clean, maintainable code and contributing to teams that build meaningful software — including hands-on experience developing higher-education platforms that serve thousands of students."
       },
       {
         "CompanyName":"Infosys Ltd",
